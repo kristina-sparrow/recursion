@@ -1,6 +1,6 @@
 # Recursion
 
-Solutions for two common DSA problems using recursion.
+Solutions for two common DSA problems using recursion and written in JavaScript.
 
 - Exercise 1: Fibonacci Sequence
 - Exercise 2: Merge Sort
