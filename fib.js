@@ -11,7 +11,7 @@ function fibs(n) {
   return arr;
 }
 
-//recursive
+// recursive
 function fibsRec(n) {
   return n <= 0
     ? "Please enter a number greater than 0"
